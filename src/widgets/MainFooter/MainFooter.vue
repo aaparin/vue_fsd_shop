@@ -8,7 +8,7 @@ import { BaseContainer } from '@/shared/ui'
         <div class="col-md-12">
           <div class="footer-copyright text-center py-3">
             &copy; 2021
-            <a href="https://www.creative-tim.com?ref=adsr-footer"> Nft-loans-landing 2023</a>
+            <a href="https://www.creative-tim.com?ref=adsr-footer"> RSSchool 2023</a>
           </div>
         </div>
       </div>
