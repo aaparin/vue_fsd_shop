@@ -1,3 +1,5 @@
+Forked from [Semperfai/fsd-app-example](https://github.com/Semperfai/fsd-app-example)
+
 # nft-loans-landing
 
  Landing page built with Vue 3 and TailwindCSS.
@@ -65,4 +67,9 @@ npm run test:e2e
 
 ```sh
 npm run lint
+```
+
+```storybook
+npm run storybook
+npm run build-storybook
 ```
