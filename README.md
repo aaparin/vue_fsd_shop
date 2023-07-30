@@ -1,8 +1,8 @@
 Forked from [Semperfai/fsd-app-example](https://github.com/Semperfai/fsd-app-example)
 
-# nft-loans-landing
+# Eshop template by FSD
 
- Landing page built with Vue 3 and TailwindCSS.
+ Landing page built with Vue 3 and TailwindCSS with Storybook.
 
 ## Recommended IDE Setup
 
@@ -68,8 +68,9 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
+### Show and build storybook
 
-```storybook
+```sh
 npm run storybook
 npm run build-storybook
 ```
